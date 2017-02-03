@@ -1,6 +1,24 @@
 
+## DS
+
+https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur?trk=hp-feed-article-title-like
+
+https://www.linkedin.com/pulse/hard-work-wont-make-you-data-scientist-ben-taylor-deeplearning-?trk=v-feed&trk=hp-feed-article-title-share
+
+## ML
+
+https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur?trk=hp-feed-article-title-like
+
+https://www.linkedin.com/pulse/data-science-qa-natalino-busa?trk=prof-post 
+
+https://www.linkedin.com/pulse/ai-qa-natalino-busa-natalino-busa
 
 
+## DL
+
+https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000?twitter=@bigdata
+
+## Multiple dimensions
 
 https://www.youtube.com/watch?v=TuL7gSMzLlU
 
@@ -8,13 +26,8 @@ http://www.preposterousuniverse.com/blog/2009/03/30/why-cant-we-visualize-more-t
  
 https://www.quora.com/How-can-one-visualize-4-dimensional-space
 
-https://www.linkedin.com/pulse/data-science-qa-natalino-busa?trk=prof-post 
 
-https://www.linkedin.com/pulse/ai-qa-natalino-busa-natalino-busa
+## Prediction
+
 
 https://webcache.googleusercontent.com/search?q=cache:a1-29WIfXjEJ:https://www.nrc.nl/nieuws/2017/02/02/onverwacht-verlies-is-zeldzaam-6527774-a1544265+&cd=1&hl=en&ct=clnk&gl=nl
-
-## DL
-
-https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000?twitter=@bigdata
-
