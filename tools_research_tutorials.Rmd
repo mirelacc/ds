@@ -116,7 +116,11 @@ Geo:
 - http://www.digital-geography.com/csv-heatmap-leaflet/#.WEkoeWco-ho
 - http://www.geonames.org/export/web-services.html
 
- 
+
+IT peripheries - containters, cloud, etc.
+
+- https://www.linkedin.com/pulse/containers-service-swarm-vs-kubernetes-mesos-fleet-yarn-natalino-busa?trk=prof-post 
+- https://www.linkedin.com/pulse/analytics-cloud-natalino-busa?trk=prof-post
 
 
 
