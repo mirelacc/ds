@@ -17,8 +17,9 @@ DL
 
 - https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000?twitter=@bigdata
 
-Multiple dimensions
+Dimensions
 
+- https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html
 - https://www.youtube.com/watch?v=TuL7gSMzLlU
 - https://www.youtube.com/watch?v=K796Ae4gLlY
 - http://www.preposterousuniverse.com/blog/2009/03/30/why-cant-we-visualize-more-than-three-dimensions/ 
