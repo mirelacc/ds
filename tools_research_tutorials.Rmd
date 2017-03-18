@@ -1,9 +1,18 @@
 
+- https://programming-wizards.slack.com/messages/C2XUKU36F/
+
 
 DS
 
+
 - https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur?trk=hp-feed-article-title-like
 - https://www.linkedin.com/pulse/hard-work-wont-make-you-data-scientist-ben-taylor-deeplearning-?trk=v-feed&trk=hp-feed-article-title-share
+
+Considerations:
+
+- https://www.linkedin.com/pulse/data-science-singularity-natalino-busa?trk=prof-post
+
+
 
 ML
 
@@ -43,7 +52,9 @@ Tensorflow - Unix overlap?
 Notebooks:
 
 - https://opendatascience.com/blog/installing-jupyter-with-the-pyspark-and-r-kernels-for-spark-development/
-
+- http://stackoverflow.com/questions/21034373/how-to-load-edit-run-save-text-files-py-into-an-ipython-notebook-cell
+- https://www.quora.com/How-can-I-use-Python-2-and-3-on-the-same-Ubuntu-system-without-running-into-issues
+- http://askubuntu.com/questions/350751/install-and-run-python-3-at-the-same-time-than-python-2
 
 Automate DS:
 
@@ -59,6 +70,53 @@ Agent-Agnostic Human-in-the-Loop Reinforcement Learning
 - https://t.co/C9BkLnivIK
 
 
-- DS & robots - great resource!
+DS & robots - great resource!
 
-http://brohrer.github.io/blog.html
+- http://brohrer.github.io/blog.html
+
+
+TS:
+
+- An interactive visual tool for time series analysis https://github.com/sdwfrost/Gatherminer
+- http://blog.revolutionanalytics.com/2009/11/charting-time-series-as-calendar-heat-maps-in-r.html
+
+
+Streaming & Big/large data:
+
+- https://dev.twitter.com/streaming/overview/processing
+- https://conferences.oreilly.com/oscon/oscon2011/public/schedule/detail/19813
+- http://vldb2016.persistent.com/
+
+
+Spark & scala:
+
+- http://ampcamp.berkeley.edu/3/exercises/realtime-processing-with-spark-streaming.html
+- http://docs.scala-lang.org/cheatsheets/?_ga=1.267538382.1745817958.1481141830
+- https://scispark.jpl.nasa.gov/
+- http://www.newthinktank.com/2015/08/learn-scala-one-video/
+- https://www.scala-lang.org/
+- http://spark.apache.org/docs/latest/quick-start.html
+- http://www.cloudera.com/products/apache-hadoop.html
+- https://en.wikipedia.org/wiki/Cloudera
+- http://www.cloudera.com/
+- http://farm11.ewi.utwente.nl:60006/notebooks/tutorial/Scala_Spark_Tutorial.ipynb
+- http://stackoverflow.com/questions/15588442/idiomatic-way-to-implement-containsany-for-scala-seqlike
+- http://figurebelow.com/2016/02/24/processing-from-javascala-side/
+- http://docs.scala-lang.org/overviews/collections/sets.html
+
+
+Geo:
+
+- http://www.cs.rochester.edu/~sadilek/research/map-NYC/ 
+- https://www.r-bloggers.com/visualising-thefts-using-heatmaps-in-ggplot2/
+- https://dev.socrata.com/blog/2014/10/01/animated-heatmap.html
+- http://dataconomy.com/using-geo-referenced-heatmaps-to-display-real-time-temperature-dynamic-behaviors/
+- http://geospark.datasyslab.org/
+- https://www.google.nl/search?q=heatmaps+geo+locations+time+r&client=ubuntu&channel=fs&biw=1144&bih=615&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjNzeTYpOTQAhWD0hoKHcO3C8AQ_AUICCgB#imgrc=VivQOXHvMW7HkM%3A
+- http://www.digital-geography.com/csv-heatmap-leaflet/#.WEkoeWco-ho
+- http://www.geonames.org/export/web-services.html
+
+ 
+
+
+
