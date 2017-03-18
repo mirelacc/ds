@@ -1,0 +1,10 @@
+
+
+Tensorflow - Unix overlap?
+
+- http://www.asimovinstitute.org/a-quick-guide-to-installing-tensorflow-on-mac-os/
+
+
+Notebooks:
+
+- https://opendatascience.com/blog/installing-jupyter-with-the-pyspark-and-r-kernels-for-spark-development/
