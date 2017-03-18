@@ -8,3 +8,13 @@ Tensorflow - Unix overlap?
 Notebooks:
 
 - https://opendatascience.com/blog/installing-jupyter-with-the-pyspark-and-r-kernels-for-spark-development/
+
+
+Automate DS:
+
+- http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/
+
+
+Always keep checking:
+
+- http://paper.li/kdnuggets/1471640633#/
