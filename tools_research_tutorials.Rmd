@@ -18,3 +18,7 @@ Automate DS:
 Always keep checking:
 
 - http://paper.li/kdnuggets/1471640633#/
+
+Agent-Agnostic Human-in-the-Loop Reinforcement Learning
+
+- https://t.co/C9BkLnivIK
