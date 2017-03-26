@@ -13,7 +13,6 @@ Considerations:
 - https://www.linkedin.com/pulse/data-science-singularity-natalino-busa?trk=prof-post
 
 
-
 ML
 
 - https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur?trk=hp-feed-article-title-like
@@ -21,6 +20,11 @@ ML
 - also check the updates: https://www.linkedin.com/pulse/ai-qa-natalino-busa-natalino-busa
 - https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 - http://algorithms-tour.stitchfix.com/
+- GENERATIVE UNADVERSARIAL NETWORKS: https://arxiv.org/pdf/1703.02528.pdf
+- GENERATIVE ADVERSARIAL NETWORKS: https://www.youtube.com/watch?v=RvgYvHyT15E
+- https://en.wikipedia.org/wiki/Generative_adversarial_networks
+- https://github.com/albanie?tab=repositories
+
 
 DL
 
