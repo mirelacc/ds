@@ -1,5 +1,6 @@
 
 - https://programming-wizards.slack.com/messages/C2XUKU36F/
+- https://channels.theinnovationenterprise.com/articles/sf-when-did-we-hit-peak-big-data
 
 DS
 
@@ -30,7 +31,6 @@ Dimensions
 - https://www.youtube.com/watch?v=K796Ae4gLlY
 - http://www.preposterousuniverse.com/blog/2009/03/30/why-cant-we-visualize-more-than-three-dimensions/ 
 - https://www.quora.com/How-can-one-visualize-4-dimensional-space
-
 
 Prediction
 
