@@ -1,17 +1,11 @@
 
 - https://programming-wizards.slack.com/messages/C2XUKU36F/
 
-
 DS
-
 
 - https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur?trk=hp-feed-article-title-like
 - https://www.linkedin.com/pulse/hard-work-wont-make-you-data-scientist-ben-taylor-deeplearning-?trk=v-feed&trk=hp-feed-article-title-share
-
-Considerations:
-
-- https://www.linkedin.com/pulse/data-science-singularity-natalino-busa?trk=prof-post
-
+- Considerations: https://www.linkedin.com/pulse/data-science-singularity-natalino-busa?trk=prof-post
 
 ML
 
@@ -24,7 +18,6 @@ ML
 - GENERATIVE ADVERSARIAL NETWORKS: https://www.youtube.com/watch?v=RvgYvHyT15E
 - https://en.wikipedia.org/wiki/Generative_adversarial_networks
 - https://github.com/albanie?tab=repositories
-
 
 DL
 
@@ -46,12 +39,9 @@ Prediction
 - https://www.weforum.org/agenda/2017/02/twitter-opinion-polls-election-prediction/ 
 - http://theconversation.com/how-our-tool-analysing-emotions-on-twitter-predicted-donald-trump-win-68522
 
-
-
 Tensorflow - Unix overlap?
 
 - http://www.asimovinstitute.org/a-quick-guide-to-installing-tensorflow-on-mac-os/
-
 
 Notebooks:
 
@@ -109,22 +99,12 @@ Spark & scala:
 - http://docs.scala-lang.org/overviews/collections/sets.html
 
 
-Geo:
-
-- http://www.cs.rochester.edu/~sadilek/research/map-NYC/ 
-- https://www.r-bloggers.com/visualising-thefts-using-heatmaps-in-ggplot2/
-- https://dev.socrata.com/blog/2014/10/01/animated-heatmap.html
-- http://dataconomy.com/using-geo-referenced-heatmaps-to-display-real-time-temperature-dynamic-behaviors/
-- http://geospark.datasyslab.org/
-- https://www.google.nl/search?q=heatmaps+geo+locations+time+r&client=ubuntu&channel=fs&biw=1144&bih=615&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjNzeTYpOTQAhWD0hoKHcO3C8AQ_AUICCgB#imgrc=VivQOXHvMW7HkM%3A
-- http://www.digital-geography.com/csv-heatmap-leaflet/#.WEkoeWco-ho
-- http://www.geonames.org/export/web-services.html
-
-
 IT peripheries - containters, cloud, etc.
 
 - https://www.linkedin.com/pulse/containers-service-swarm-vs-kubernetes-mesos-fleet-yarn-natalino-busa?trk=prof-post 
 - https://www.linkedin.com/pulse/analytics-cloud-natalino-busa?trk=prof-post
 
 
+Magic:
 
+- Jonker-Volgenant Algorithm + t-SNE = Super Powers: https://blog.sourced.tech/post/lapjv/
