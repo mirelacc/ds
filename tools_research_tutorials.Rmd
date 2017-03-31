@@ -75,12 +75,12 @@ TS:
 - http://blog.revolutionanalytics.com/2009/11/charting-time-series-as-calendar-heat-maps-in-r.html
 
 
-Streaming & Big/large data:
+Streaming & Big/large data (~flink):
 
 - https://dev.twitter.com/streaming/overview/processing
 - https://conferences.oreilly.com/oscon/oscon2011/public/schedule/detail/19813
 - http://vldb2016.persistent.com/
-
+- http://flink.apache.org/news/2017/03/29/table-sql-api-update.html
 
 Spark & scala:
 
