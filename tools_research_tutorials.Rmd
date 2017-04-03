@@ -2,7 +2,7 @@
 DS
 
 - https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur
-- https://www.linkedin.com/pulse/hard-work-wont-make-you-data-scientist-ben-taylor-deeplearning-?trk=v-feed&trk=hp-feed-article-title-share
+- https://www.linkedin.com/pulse/hard-work-wont-make-you-data-scientist-ben-taylor-deeplearning
 - Considerations: https://www.linkedin.com/pulse/data-science-singularity-natalino-busa?trk=prof-post
 - https://programming-wizards.slack.com/messages/C2XUKU36F/
 - https://channels.theinnovationenterprise.com/articles/sf-when-did-we-hit-peak-big-data
@@ -10,7 +10,7 @@ DS
 ML
 
 - https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur?trk=hp-feed-article-title-like
-- https://www.linkedin.com/pulse/data-science-qa-natalino-busa?trk=prof-post 
+- https://www.linkedin.com/pulse/data-science-qa-natalino-busa
 - also check the updates: https://www.linkedin.com/pulse/ai-qa-natalino-busa-natalino-busa
 - https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 - http://algorithms-tour.stitchfix.com/
@@ -22,7 +22,7 @@ ML
 
 DL
 
-- https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000?twitter=@bigdata
+- https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000
 
 Dimensions
 
@@ -34,7 +34,7 @@ Dimensions
 
 Prediction
 
-- https://webcache.googleusercontent.com/search?q=cache:a1-29WIfXjEJ:https://www.nrc.nl/nieuws/2017/02/02/onverwacht-verlies-is-zeldzaam-6527774-a1544265+&cd=1&hl=en&ct=clnk&gl=nl
+- https://webcache.googleusercontent.com/search?q=cache:a1-29WIfXjEJ:https://www.nrc.nl/nieuws/2017/02/02/onverwacht-verlies-is-zeldzaam-6527774-a1544265
 - http://www.dekennisvannu.nl/site/artikel/Twitterpeilingen-zaten-er-naast/8940
 - https://www.weforum.org/agenda/2017/02/twitter-opinion-polls-election-prediction/ 
 - http://theconversation.com/how-our-tool-analysing-emotions-on-twitter-predicted-donald-trump-win-68522
