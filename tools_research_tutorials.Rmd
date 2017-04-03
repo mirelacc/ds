@@ -1,7 +1,7 @@
 
 DS
 
-- https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur?trk=hp-feed-article-title-like
+- https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur
 - https://www.linkedin.com/pulse/hard-work-wont-make-you-data-scientist-ben-taylor-deeplearning-?trk=v-feed&trk=hp-feed-article-title-share
 - Considerations: https://www.linkedin.com/pulse/data-science-singularity-natalino-busa?trk=prof-post
 - https://programming-wizards.slack.com/messages/C2XUKU36F/
