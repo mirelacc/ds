@@ -6,6 +6,7 @@ DS
 - Considerations: https://www.linkedin.com/pulse/data-science-singularity-natalino-busa?trk=prof-post
 - https://programming-wizards.slack.com/messages/C2XUKU36F/
 - https://channels.theinnovationenterprise.com/articles/sf-when-did-we-hit-peak-big-data
+- http://www.kdnuggets.com/2015/08/feldman-avoid-overfitting-holdout-adaptive-data-analysis.html
 
 ML
 
