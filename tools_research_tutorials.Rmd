@@ -7,6 +7,20 @@ DS
 - https://programming-wizards.slack.com/messages/C2XUKU36F/
 - https://channels.theinnovationenterprise.com/articles/sf-when-did-we-hit-peak-big-data
 - http://www.kdnuggets.com/2015/08/feldman-avoid-overfitting-holdout-adaptive-data-analysis.html
+- 
+
+Stats:
+
+- multiple comparisons multiple comparisons
+- Do Not Log-Transform Count Data https://www.r-bloggers.com/do-not-log-transform-count-data-bitches/
+- http://egap.org/methods-guides/10-things-you-need-know-about-statistical-power
+
+
+Viz:
+
+- http://lenkiefer.com/2017/01/29/fun-with-plotly
+- http://www.personal.psu.edu/cab38/ColorSch/SchHome.html
+- 
 
 ML
 
@@ -20,6 +34,8 @@ ML
 - https://en.wikipedia.org/wiki/Generative_adversarial_networks
 - https://github.com/albanie?tab=repositories
 - https://www.linkedin.com/pulse/deep-stubborn-networks-breakthrough-advance-towards-gregory
+- Jonker-Volgenant Algorithm + t-SNE = Super Powers https://blog.sourced.tech/post/lapjv/
+
 
 DL
 
