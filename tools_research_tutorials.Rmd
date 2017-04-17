@@ -7,7 +7,7 @@ DS
 - https://programming-wizards.slack.com/messages/C2XUKU36F/
 - https://channels.theinnovationenterprise.com/articles/sf-when-did-we-hit-peak-big-data
 - http://www.kdnuggets.com/2015/08/feldman-avoid-overfitting-holdout-adaptive-data-analysis.html
-- 
+- https://www.schoolofdatascience.amsterdam/news/amsterdam-school-data-science-officially-opened-kajsa-ollongren/
 
 Stats:
 
@@ -35,7 +35,7 @@ ML
 - https://github.com/albanie?tab=repositories
 - https://www.linkedin.com/pulse/deep-stubborn-networks-breakthrough-advance-towards-gregory
 - Jonker-Volgenant Algorithm + t-SNE = Super Powers https://blog.sourced.tech/post/lapjv/
-
+- Tensors (!) https://www.youtube.com/watch?v=f5liqUk0ZTw
 
 DL
 
@@ -126,3 +126,5 @@ IT peripheries - containters, cloud, etc.
 Magic:
 
 - Jonker-Volgenant Algorithm + t-SNE = Super Powers: https://blog.sourced.tech/post/lapjv/
+- https://affinelayer.com/pixsrv/index.html
+
