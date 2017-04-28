@@ -36,6 +36,8 @@ ML
 - https://www.linkedin.com/pulse/deep-stubborn-networks-breakthrough-advance-towards-gregory
 - Jonker-Volgenant Algorithm + t-SNE = Super Powers https://blog.sourced.tech/post/lapjv/
 - Tensors (!) https://www.youtube.com/watch?v=f5liqUk0ZTw
+- GAN's https://deephunt.in/the-gan-zoo-79597dc8c347
+
 
 DL
 
